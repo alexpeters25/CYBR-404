@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.10">
   <diagram name="Page-1" id="ss6D8p6kptXvcRFLBRH7">
-    <mxGraphModel dx="787" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="787" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#A9C4EB" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,9 +102,6 @@
         </mxCell>
         <mxCell id="dOwPOWtXe94sO2T78dOZ-28" value="&lt;div&gt;html&lt;/div&gt;&lt;div&gt;text&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="200" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dOwPOWtXe94sO2T78dOZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dOwPOWtXe94sO2T78dOZ-29" target="dOwPOWtXe94sO2T78dOZ-27">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dOwPOWtXe94sO2T78dOZ-29" value="&lt;div&gt;Request&lt;/div&gt;&lt;div&gt;data&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="70" height="40" as="geometry" />
